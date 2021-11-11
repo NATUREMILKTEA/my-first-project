@@ -68,7 +68,7 @@ class _MyHomePageState extends State<MyHomePage> {
               TextField(
                 controller: _nameController,
                 decoration: InputDecoration(
-                  hintText: "Tên đăng nhập",
+                  hintText: "Tên đăng nhập :3",
                   //labelText: "Username",
                   labelStyle: TextStyle(
                     fontSize: 15,
